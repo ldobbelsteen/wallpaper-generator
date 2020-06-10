@@ -1,6 +1,6 @@
 # Wallpaper generator
 
-Create a high-quality polygon wallpapers of any size from any image. To run, simply:
+Create high-quality polygon wallpapers of any size from any image. To run, simply:
 
 ```
 pip install -r requirements.txt
